@@ -30,5 +30,7 @@ I've used random forest algorithm to prodict train the model
 Random forest brief explanatory : https://towardsdatascience.com/understanding-random-forest-58381e0602d2
     
 Evaluate the model: Use the test set to evaluate the performance of the model and make adjustments as necessary.
-    
+
+<img src="https://drive.google.com/uc?export=view&id=1KvhUGNJlRNJiJp7IUA8v2cDsf__OpfG7" width="350" title="output">
+
 Make predictions: Use the trained model to make predictions on new housing data and calculate the estimated housing value.
